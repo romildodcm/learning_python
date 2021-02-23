@@ -13,4 +13,5 @@ Following I recommend **Microsoft More Python for Beginners**:
 - [My codes on this course.](./more_python_for_Beginners)
 
 I recently resumed some studies about GUI with **Python GUI Programming Cookbook** - *Burkhard Meier*, You can find it easier to buy or lend at libraries (including online).
+
 - [My codes on this course.](./GUI)
