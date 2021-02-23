@@ -7,3 +7,8 @@ Fist I share the **Microsoft Python for Beginners**, one of most simple and unco
 - [Python for Beginners (Youtube playlist);](www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 - [My codes on this course.](./python_for_Beginners)
 
+Following I recommend **Microsoft More Python for Beginners**:
+
+- [More Python for Beginners (Youtube playlist);](https://youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
+- [My codes on this course.](./more_python_for_Beginners)
+
