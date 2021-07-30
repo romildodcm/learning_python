@@ -1,4 +1,4 @@
-# Dictionaries 
+# Dictionaries
 # Lists: zero based index and storage order guaranteed
 # Dictionaries: Key/Value pairs and storage order not guaranteed
 
@@ -19,3 +19,10 @@ people.append({
 })
 
 print(people)
+print(people[2])
+
+
+
+
+
+

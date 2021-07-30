@@ -1,0 +1,12 @@
+// Data json before: 
+[
+    {
+        'measurement': 'temperature_bmp',
+        'tags': {
+            'location': 'ws01'
+        },
+        'time': '2021-07-29T00: 49: 55Z',
+        'fields': {'value': 25.4
+        }
+    }
+]
